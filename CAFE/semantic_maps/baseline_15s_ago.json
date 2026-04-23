@@ -1,0 +1,1282 @@
+{
+  "session_id": "RealtimeSession",
+  "updated_at": 1776871153.464138,
+  "objects": [
+    {
+      "名称": {
+        "type": "Bowl",
+        "id": "Bowl|+00.79|+00.90|-00.12"
+      },
+      "状态": {
+        "isDirty": true,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 0.7941184639930725,
+        "y": 0.9004191756248474,
+        "z": -0.1181841492652893,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "Cabinet",
+        "id": "Cabinet|+00.65|+00.48|-01.72"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": true,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 0.6488125920295715,
+        "y": 0.4750000238418579,
+        "z": -1.7149996757507324,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "Cabinet",
+        "id": "Cabinet|+00.95|+02.16|-02.38"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": true,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 0.9490000009536743,
+        "y": 2.1599998474121094,
+        "z": -2.375999927520752,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "Cabinet",
+        "id": "Cabinet|+00.95|+02.16|-00.76"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": true,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 0.9490000009536743,
+        "y": 2.1599998474121094,
+        "z": -0.7583000063896179,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "Cabinet",
+        "id": "Cabinet|+00.95|+02.44|-01.78"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": true,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 0.9488124847412109,
+        "y": 2.43999981880188,
+        "z": -1.78000009059906,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "CoffeeMachine",
+        "id": "CoffeeMachine|+00.89|+00.90|-02.13"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": true,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 0.8919996023178101,
+        "y": 0.9000081419944763,
+        "z": -2.133002996444702,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "CounterTop",
+        "id": "CounterTop|+00.93|+00.95|-02.05"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 0.9319999814033508,
+        "y": 0.9467999935150146,
+        "z": -2.0510001182556152,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "CounterTop",
+        "id": "CounterTop|+00.93|+00.95|-00.21"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 0.9319999814033508,
+        "y": 0.9467999935150146,
+        "z": -0.20800000429153442,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "Cup",
+        "id": "Cup|+01.08|+00.90|-00.77"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 1.0786449909210205,
+        "y": 0.8995606899261475,
+        "z": -0.7677611708641052,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "Microwave",
+        "id": "Microwave|+01.04|+01.68|-01.30"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": true,
+        "toggleable": true,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 1.0428602695465088,
+        "y": 1.6801228523254395,
+        "z": -1.2953537702560425,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "Pan",
+        "id": "Pan|+00.85|+00.95|-01.08"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 0.8484882712364197,
+        "y": 0.9459495544433594,
+        "z": -1.080155611038208,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "PaperTowelRoll",
+        "id": "PaperTowelRoll|+01.22|+01.01|-00.52"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 1.2191027402877808,
+        "y": 1.00745689868927,
+        "z": -0.5236106514930725,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "PepperShaker",
+        "id": "PepperShaker|+01.09|+00.90|-01.82"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 1.094215750694275,
+        "y": 0.9000789523124695,
+        "z": -1.8227139711380005,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "SaltShaker",
+        "id": "SaltShaker|+01.19|+00.90|-01.80"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 1.1941169500350952,
+        "y": 0.9000768065452576,
+        "z": -1.798107385635376,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "Spatula",
+        "id": "Spatula|+01.10|+00.91|-00.63"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 1.098650336265564,
+        "y": 0.9074100255966187,
+        "z": -0.6293136477470398,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "StoveBurner",
+        "id": "StoveBurner|+00.84|+00.92|-01.50"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 0.8420000076293945,
+        "y": 0.9193000197410583,
+        "z": -1.5041999816894531,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "StoveBurner",
+        "id": "StoveBurner|+00.84|+00.92|-01.10"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 0.8420000076293945,
+        "y": 0.9193000197410583,
+        "z": -1.0985000133514404,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "StoveBurner",
+        "id": "StoveBurner|+01.08|+00.92|-01.50"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 1.0776000022888184,
+        "y": 0.9193000197410583,
+        "z": -1.5041999816894531,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "StoveBurner",
+        "id": "StoveBurner|+01.08|+00.92|-01.10"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 1.0776000022888184,
+        "y": 0.9193000197410583,
+        "z": -1.0985000133514404,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "StoveKnob",
+        "id": "StoveKnob|+00.67|+00.90|-01.52"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": true,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 0.6736999750137329,
+        "y": 0.8996999859809875,
+        "z": -1.5196267366409302,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "StoveKnob",
+        "id": "StoveKnob|+00.67|+00.90|-01.37"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": true,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 0.6736999750137329,
+        "y": 0.8996999859809875,
+        "z": -1.3739114999771118,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "StoveKnob",
+        "id": "StoveKnob|+00.67|+00.90|-01.24"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": true,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 0.6736999750137329,
+        "y": 0.8996999859809875,
+        "z": -1.2376582622528076,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "StoveKnob",
+        "id": "StoveKnob|+00.67|+00.90|-01.09"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": true,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 0.6736999750137329,
+        "y": 0.8996999859809875,
+        "z": -1.0862658023834229,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "Window",
+        "id": "Window|+00.02|+01.00|-02.64"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 0.014999999664723873,
+        "y": 0.9980000257492065,
+        "z": -2.640000104904175,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "Cabinet",
+        "id": "Cabinet|+00.95|+02.16|-00.14"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": true,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 0.9488124847412109,
+        "y": 2.1599998474121094,
+        "z": -0.1400001049041748,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "Bread",
+        "id": "Bread|-00.78|+01.00|+00.21"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": -0.7789999842643738,
+        "y": 0.9967340230941772,
+        "z": 0.2099999487400055,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "CounterTop",
+        "id": "CounterTop|-01.24|+00.97|-00.64"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": -1.2389999628067017,
+        "y": 0.968999981880188,
+        "z": -0.6430000066757202,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "DishSponge",
+        "id": "DishSponge|-00.71|+00.79|-00.46"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": -0.7149176597595215,
+        "y": 0.7945565581321716,
+        "z": -0.4577546715736389,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "Drawer",
+        "id": "Drawer|+00.64|+00.76|-00.65"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": true,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 0.6376250982284546,
+        "y": 0.7555999755859375,
+        "z": -0.6499999761581421,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "Drawer",
+        "id": "Drawer|+00.64|+00.55|-00.65"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": true,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 0.6376250982284546,
+        "y": 0.5475000143051147,
+        "z": -0.6499999761581421,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "Faucet",
+        "id": "Faucet|-00.95|+00.95|-00.65"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": true,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": -0.9459999799728394,
+        "y": 0.9506000280380249,
+        "z": -0.6499999761581421,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "Floor",
+        "id": "Floor|+00.00|+00.00|+00.00"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "Pot",
+        "id": "Pot|-01.22|+00.92|-00.49"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": -1.2209949493408203,
+        "y": 0.919891893863678,
+        "z": -0.48999661207199097,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "Potato",
+        "id": "Potato|-00.69|+00.95|-00.05"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": -0.6945620775222778,
+        "y": 0.9520477652549744,
+        "z": -0.053061507642269135,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "Sink",
+        "id": "Sink|-00.70|+00.93|-00.65"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": -0.699999988079071,
+        "y": 0.9279999732971191,
+        "z": -0.6499999761581421,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "SinkBasin",
+        "id": "Sink|-00.70|+00.93|-00.65|SinkBasin"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": -0.6980000138282776,
+        "y": 0.765999972820282,
+        "z": -0.6470000147819519,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "Tomato",
+        "id": "Tomato|-00.87|+00.96|-00.10"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": -0.8700559139251709,
+        "y": 0.9626473188400269,
+        "z": -0.09599645435810089,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "ButterKnife",
+        "id": "ButterKnife|-01.33|+00.92|-00.88"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": -1.3258028030395508,
+        "y": 0.9249317646026611,
+        "z": -0.8846998810768127,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "Fork",
+        "id": "Fork|-01.29|+00.92|-01.29"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": -1.2906031608581543,
+        "y": 0.9212445616722107,
+        "z": -1.2871941328048706,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "HousePlant",
+        "id": "HousePlant|-01.35|+00.92|-01.54"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": -1.3547950983047485,
+        "y": 0.9191295504570007,
+        "z": -1.5404151678085327,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "Mug",
+        "id": "Mug|-00.67|+00.77|-00.84"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": -0.6729389429092407,
+        "y": 0.7706277370452881,
+        "z": -0.84164959192276,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "Plate",
+        "id": "Plate|-00.56|+00.92|-01.52"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": -0.5587143898010254,
+        "y": 0.9203885793685913,
+        "z": -1.5161370038986206,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "SoapBottle",
+        "id": "SoapBottle|-00.83|+00.92|-01.18"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": -0.8349511027336121,
+        "y": 0.9201086163520813,
+        "z": -1.1764014959335327,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    },
+    {
+      "名称": {
+        "type": "Spoon",
+        "id": "Spoon|-01.24|+00.92|-01.21"
+      },
+      "状态": {
+        "isDirty": false,
+        "isOpen": false,
+        "isToggledOn": false,
+        "isFilledWithLiquid": false
+      },
+      "可交互性": {
+        "pickupable": false,
+        "openable": false,
+        "toggleable": false,
+        "receptacle": false
+      },
+      "类别": {
+        "llm_category": null,
+        "group_hint": null
+      },
+      "位置": {
+        "x": -1.2419390678405762,
+        "y": 0.9198877215385437,
+        "z": -1.2094093561172485,
+        "区域Id": "area::切配子区",
+        "区域": null
+      }
+    }
+  ]
+}

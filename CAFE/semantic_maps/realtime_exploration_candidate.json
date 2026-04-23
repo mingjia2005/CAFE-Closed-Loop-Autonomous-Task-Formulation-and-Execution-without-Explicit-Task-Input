@@ -1,0 +1,1238 @@
+{
+  "session_id": "RealtimeSession_20260422_224831",
+  "last_update_time": 1776871183.8618815,
+  "nodes": [
+    {
+      "id": "Floor",
+      "label": "Floor",
+      "category": "Surface",
+      "attributes": {
+        "position_3d": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "id": "Bowl_1",
+      "label": "Bowl",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 0.7941184639930725,
+          "y": 0.9004191756248474,
+          "z": -0.1181841492652893
+        },
+        "discovered_frame": 1,
+        "original_id": "Bowl|+00.79|+00.90|-00.12",
+        "ai2thor_id": "Bowl|+00.79|+00.90|-00.12",
+        "state": {
+          "dirtyable": true,
+          "isDirty": true,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Cabinet_2",
+      "label": "Cabinet",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 0.6488125920295715,
+          "y": 0.4750000238418579,
+          "z": -1.7149996757507324
+        },
+        "discovered_frame": 1,
+        "original_id": "Cabinet|+00.65|+00.48|-01.72",
+        "ai2thor_id": "Cabinet|+00.65|+00.48|-01.72",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": true,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Cabinet_3",
+      "label": "Cabinet",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 0.9490000009536743,
+          "y": 2.1599998474121094,
+          "z": -2.375999927520752
+        },
+        "discovered_frame": 1,
+        "original_id": "Cabinet|+00.95|+02.16|-02.38",
+        "ai2thor_id": "Cabinet|+00.95|+02.16|-02.38",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": true,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Cabinet_4",
+      "label": "Cabinet",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 0.9490000009536743,
+          "y": 2.1599998474121094,
+          "z": -0.7583000063896179
+        },
+        "discovered_frame": 1,
+        "original_id": "Cabinet|+00.95|+02.16|-00.76",
+        "ai2thor_id": "Cabinet|+00.95|+02.16|-00.76",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": true,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Cabinet_5",
+      "label": "Cabinet",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 0.9488124847412109,
+          "y": 2.43999981880188,
+          "z": -1.78000009059906
+        },
+        "discovered_frame": 1,
+        "original_id": "Cabinet|+00.95|+02.44|-01.78",
+        "ai2thor_id": "Cabinet|+00.95|+02.44|-01.78",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": true,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "CoffeeMachine_6",
+      "label": "CoffeeMachine",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 0.8919996023178101,
+          "y": 0.9000081419944763,
+          "z": -2.133002996444702
+        },
+        "discovered_frame": 1,
+        "original_id": "CoffeeMachine|+00.89|+00.90|-02.13",
+        "ai2thor_id": "CoffeeMachine|+00.89|+00.90|-02.13",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": true,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "CounterTop_7",
+      "label": "CounterTop",
+      "category": "Furniture",
+      "attributes": {
+        "position_3d": {
+          "x": 0.9319999814033508,
+          "y": 0.9467999935150146,
+          "z": -2.0510001182556152
+        },
+        "discovered_frame": 1,
+        "original_id": "CounterTop|+00.93|+00.95|-02.05",
+        "ai2thor_id": "CounterTop|+00.93|+00.95|-02.05",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "CounterTop_8",
+      "label": "CounterTop",
+      "category": "Furniture",
+      "attributes": {
+        "position_3d": {
+          "x": 0.9319999814033508,
+          "y": 0.9467999935150146,
+          "z": -0.20800000429153442
+        },
+        "discovered_frame": 1,
+        "original_id": "CounterTop|+00.93|+00.95|-00.21",
+        "ai2thor_id": "CounterTop|+00.93|+00.95|-00.21",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Cup_9",
+      "label": "Cup",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 1.0786449909210205,
+          "y": 0.8995606899261475,
+          "z": -0.7677611708641052
+        },
+        "discovered_frame": 1,
+        "original_id": "Cup|+01.08|+00.90|-00.77",
+        "ai2thor_id": "Cup|+01.08|+00.90|-00.77",
+        "state": {
+          "dirtyable": true,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Microwave_10",
+      "label": "Microwave",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 1.0428602695465088,
+          "y": 1.6801228523254395,
+          "z": -1.2953537702560425
+        },
+        "discovered_frame": 1,
+        "original_id": "Microwave|+01.04|+01.68|-01.30",
+        "ai2thor_id": "Microwave|+01.04|+01.68|-01.30",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": true,
+          "isOpen": false,
+          "toggleable": true,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Pan_11",
+      "label": "Pan",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 0.8484882712364197,
+          "y": 0.9459495544433594,
+          "z": -1.080155611038208
+        },
+        "discovered_frame": 1,
+        "original_id": "Pan|+00.85|+00.95|-01.08",
+        "ai2thor_id": "Pan|+00.85|+00.95|-01.08",
+        "state": {
+          "dirtyable": true,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "PaperTowelRoll_12",
+      "label": "PaperTowelRoll",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 1.2191027402877808,
+          "y": 1.00745689868927,
+          "z": -0.5236106514930725
+        },
+        "discovered_frame": 1,
+        "original_id": "PaperTowelRoll|+01.22|+01.01|-00.52",
+        "ai2thor_id": "PaperTowelRoll|+01.22|+01.01|-00.52",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "PepperShaker_13",
+      "label": "PepperShaker",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 1.094215750694275,
+          "y": 0.9000789523124695,
+          "z": -1.8227139711380005
+        },
+        "discovered_frame": 1,
+        "original_id": "PepperShaker|+01.09|+00.90|-01.82",
+        "ai2thor_id": "PepperShaker|+01.09|+00.90|-01.82",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "SaltShaker_14",
+      "label": "SaltShaker",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 1.1941169500350952,
+          "y": 0.9000768065452576,
+          "z": -1.798107385635376
+        },
+        "discovered_frame": 1,
+        "original_id": "SaltShaker|+01.19|+00.90|-01.80",
+        "ai2thor_id": "SaltShaker|+01.19|+00.90|-01.80",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Spatula_15",
+      "label": "Spatula",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 1.098650336265564,
+          "y": 0.9074100255966187,
+          "z": -0.6293136477470398
+        },
+        "discovered_frame": 1,
+        "original_id": "Spatula|+01.10|+00.91|-00.63",
+        "ai2thor_id": "Spatula|+01.10|+00.91|-00.63",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "StoveBurner_16",
+      "label": "StoveBurner",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 0.8420000076293945,
+          "y": 0.9193000197410583,
+          "z": -1.5041999816894531
+        },
+        "discovered_frame": 1,
+        "original_id": "StoveBurner|+00.84|+00.92|-01.50",
+        "ai2thor_id": "StoveBurner|+00.84|+00.92|-01.50",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "StoveBurner_17",
+      "label": "StoveBurner",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 0.8420000076293945,
+          "y": 0.9193000197410583,
+          "z": -1.0985000133514404
+        },
+        "discovered_frame": 1,
+        "original_id": "StoveBurner|+00.84|+00.92|-01.10",
+        "ai2thor_id": "StoveBurner|+00.84|+00.92|-01.10",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "StoveBurner_18",
+      "label": "StoveBurner",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 1.0776000022888184,
+          "y": 0.9193000197410583,
+          "z": -1.5041999816894531
+        },
+        "discovered_frame": 1,
+        "original_id": "StoveBurner|+01.08|+00.92|-01.50",
+        "ai2thor_id": "StoveBurner|+01.08|+00.92|-01.50",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "StoveBurner_19",
+      "label": "StoveBurner",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 1.0776000022888184,
+          "y": 0.9193000197410583,
+          "z": -1.0985000133514404
+        },
+        "discovered_frame": 1,
+        "original_id": "StoveBurner|+01.08|+00.92|-01.10",
+        "ai2thor_id": "StoveBurner|+01.08|+00.92|-01.10",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "StoveKnob_20",
+      "label": "StoveKnob",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 0.6736999750137329,
+          "y": 0.8996999859809875,
+          "z": -1.5196267366409302
+        },
+        "discovered_frame": 1,
+        "original_id": "StoveKnob|+00.67|+00.90|-01.52",
+        "ai2thor_id": "StoveKnob|+00.67|+00.90|-01.52",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": true,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "StoveKnob_21",
+      "label": "StoveKnob",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 0.6736999750137329,
+          "y": 0.8996999859809875,
+          "z": -1.3739114999771118
+        },
+        "discovered_frame": 1,
+        "original_id": "StoveKnob|+00.67|+00.90|-01.37",
+        "ai2thor_id": "StoveKnob|+00.67|+00.90|-01.37",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": true,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "StoveKnob_22",
+      "label": "StoveKnob",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 0.6736999750137329,
+          "y": 0.8996999859809875,
+          "z": -1.2376582622528076
+        },
+        "discovered_frame": 1,
+        "original_id": "StoveKnob|+00.67|+00.90|-01.24",
+        "ai2thor_id": "StoveKnob|+00.67|+00.90|-01.24",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": true,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "StoveKnob_23",
+      "label": "StoveKnob",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 0.6736999750137329,
+          "y": 0.8996999859809875,
+          "z": -1.0862658023834229
+        },
+        "discovered_frame": 1,
+        "original_id": "StoveKnob|+00.67|+00.90|-01.09",
+        "ai2thor_id": "StoveKnob|+00.67|+00.90|-01.09",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": true,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Window_24",
+      "label": "Window",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 0.014999999664723873,
+          "y": 0.9980000257492065,
+          "z": -2.640000104904175
+        },
+        "discovered_frame": 1,
+        "original_id": "Window|+00.02|+01.00|-02.64",
+        "ai2thor_id": "Window|+00.02|+01.00|-02.64",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Cabinet_25",
+      "label": "Cabinet",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 0.9488124847412109,
+          "y": 2.1599998474121094,
+          "z": -0.1400001049041748
+        },
+        "discovered_frame": 7,
+        "original_id": "Cabinet|+00.95|+02.16|-00.14",
+        "ai2thor_id": "Cabinet|+00.95|+02.16|-00.14",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": true,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Bread_26",
+      "label": "Bread",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": -0.7789999842643738,
+          "y": 0.9967340230941772,
+          "z": 0.2099999487400055
+        },
+        "discovered_frame": 9,
+        "original_id": "Bread|-00.78|+01.00|+00.21",
+        "ai2thor_id": "Bread|-00.78|+01.00|+00.21",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "CounterTop_27",
+      "label": "CounterTop",
+      "category": "Furniture",
+      "attributes": {
+        "position_3d": {
+          "x": -1.2389999628067017,
+          "y": 0.968999981880188,
+          "z": -0.6430000066757202
+        },
+        "discovered_frame": 9,
+        "original_id": "CounterTop|-01.24|+00.97|-00.64",
+        "ai2thor_id": "CounterTop|-01.24|+00.97|-00.64",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "DishSponge_28",
+      "label": "DishSponge",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": -0.7149176597595215,
+          "y": 0.7945565581321716,
+          "z": -0.4577546715736389
+        },
+        "discovered_frame": 9,
+        "original_id": "DishSponge|-00.71|+00.79|-00.46",
+        "ai2thor_id": "DishSponge|-00.71|+00.79|-00.46",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Drawer_29",
+      "label": "Drawer",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 0.6376250982284546,
+          "y": 0.7555999755859375,
+          "z": -0.6499999761581421
+        },
+        "discovered_frame": 9,
+        "original_id": "Drawer|+00.64|+00.76|-00.65",
+        "ai2thor_id": "Drawer|+00.64|+00.76|-00.65",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": true,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Drawer_30",
+      "label": "Drawer",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 0.6376250982284546,
+          "y": 0.5475000143051147,
+          "z": -0.6499999761581421
+        },
+        "discovered_frame": 9,
+        "original_id": "Drawer|+00.64|+00.55|-00.65",
+        "ai2thor_id": "Drawer|+00.64|+00.55|-00.65",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": true,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Faucet_31",
+      "label": "Faucet",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": -0.9459999799728394,
+          "y": 0.9506000280380249,
+          "z": -0.6499999761581421
+        },
+        "discovered_frame": 9,
+        "original_id": "Faucet|-00.95|+00.95|-00.65",
+        "ai2thor_id": "Faucet|-00.95|+00.95|-00.65",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": true,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Floor_32",
+      "label": "Floor",
+      "category": "Furniture",
+      "attributes": {
+        "position_3d": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "discovered_frame": 9,
+        "original_id": "Floor|+00.00|+00.00|+00.00",
+        "ai2thor_id": "Floor|+00.00|+00.00|+00.00",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Pot_33",
+      "label": "Pot",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": -1.2209949493408203,
+          "y": 0.919891893863678,
+          "z": -0.48999661207199097
+        },
+        "discovered_frame": 9,
+        "original_id": "Pot|-01.22|+00.92|-00.49",
+        "ai2thor_id": "Pot|-01.22|+00.92|-00.49",
+        "state": {
+          "dirtyable": true,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Potato_34",
+      "label": "Potato",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": -0.6945620775222778,
+          "y": 0.9520477652549744,
+          "z": -0.053061507642269135
+        },
+        "discovered_frame": 9,
+        "original_id": "Potato|-00.69|+00.95|-00.05",
+        "ai2thor_id": "Potato|-00.69|+00.95|-00.05",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Sink_35",
+      "label": "Sink",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": -0.699999988079071,
+          "y": 0.9279999732971191,
+          "z": -0.6499999761581421
+        },
+        "discovered_frame": 9,
+        "original_id": "Sink|-00.70|+00.93|-00.65",
+        "ai2thor_id": "Sink|-00.70|+00.93|-00.65",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "SinkBasin_36",
+      "label": "SinkBasin",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": -0.6980000138282776,
+          "y": 0.765999972820282,
+          "z": -0.6470000147819519
+        },
+        "discovered_frame": 9,
+        "original_id": "Sink|-00.70|+00.93|-00.65|SinkBasin",
+        "ai2thor_id": "Sink|-00.70|+00.93|-00.65|SinkBasin",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Tomato_37",
+      "label": "Tomato",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": -0.8700559139251709,
+          "y": 0.9626473188400269,
+          "z": -0.09599645435810089
+        },
+        "discovered_frame": 9,
+        "original_id": "Tomato|-00.87|+00.96|-00.10",
+        "ai2thor_id": "Tomato|-00.87|+00.96|-00.10",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "ButterKnife_38",
+      "label": "ButterKnife",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": -1.3258028030395508,
+          "y": 0.9249317646026611,
+          "z": -0.8846998810768127
+        },
+        "discovered_frame": 18,
+        "original_id": "ButterKnife|-01.33|+00.92|-00.88",
+        "ai2thor_id": "ButterKnife|-01.33|+00.92|-00.88",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Fork_39",
+      "label": "Fork",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": -1.2906031608581543,
+          "y": 0.9212445616722107,
+          "z": -1.2871941328048706
+        },
+        "discovered_frame": 18,
+        "original_id": "Fork|-01.29|+00.92|-01.29",
+        "ai2thor_id": "Fork|-01.29|+00.92|-01.29",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "HousePlant_40",
+      "label": "HousePlant",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": -1.3547950983047485,
+          "y": 0.9191295504570007,
+          "z": -1.5404151678085327
+        },
+        "discovered_frame": 18,
+        "original_id": "HousePlant|-01.35|+00.92|-01.54",
+        "ai2thor_id": "HousePlant|-01.35|+00.92|-01.54",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Mug_41",
+      "label": "Mug",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": -0.6729389429092407,
+          "y": 0.7706277370452881,
+          "z": -0.84164959192276
+        },
+        "discovered_frame": 18,
+        "original_id": "Mug|-00.67|+00.77|-00.84",
+        "ai2thor_id": "Mug|-00.67|+00.77|-00.84",
+        "state": {
+          "dirtyable": true,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Plate_42",
+      "label": "Plate",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": -0.5587143898010254,
+          "y": 0.9203885793685913,
+          "z": -1.5161370038986206
+        },
+        "discovered_frame": 18,
+        "original_id": "Plate|-00.56|+00.92|-01.52",
+        "ai2thor_id": "Plate|-00.56|+00.92|-01.52",
+        "state": {
+          "dirtyable": true,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "SoapBottle_43",
+      "label": "SoapBottle",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": -0.8349511027336121,
+          "y": 0.9201086163520813,
+          "z": -1.1764014959335327
+        },
+        "discovered_frame": 18,
+        "original_id": "SoapBottle|-00.83|+00.92|-01.18",
+        "ai2thor_id": "SoapBottle|-00.83|+00.92|-01.18",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Spoon_44",
+      "label": "Spoon",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": -1.2419390678405762,
+          "y": 0.9198877215385437,
+          "z": -1.2094093561172485
+        },
+        "discovered_frame": 18,
+        "original_id": "Spoon|-01.24|+00.92|-01.21",
+        "ai2thor_id": "Spoon|-01.24|+00.92|-01.21",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Drawer_45",
+      "label": "Drawer",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 0.6376250982284546,
+          "y": 0.26874998211860657,
+          "z": -0.6499999761581421
+        },
+        "discovered_frame": 55,
+        "original_id": "Drawer|+00.64|+00.27|-00.65",
+        "ai2thor_id": "Drawer|+00.64|+00.27|-00.65",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": true,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Chair_46",
+      "label": "Chair",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": -1.8540294170379639,
+          "y": 0.0020338892936706543,
+          "z": -0.9562326073646545
+        },
+        "discovered_frame": 58,
+        "original_id": "Chair|-01.85|+00.00|-00.96",
+        "ai2thor_id": "Chair|-01.85|+00.00|-00.96",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Apple_47",
+      "label": "Apple",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": -1.0949554443359375,
+          "y": 0.9632999897003174,
+          "z": -0.01994890719652176
+        },
+        "discovered_frame": 61,
+        "original_id": "Apple|-01.09|+00.96|-00.02",
+        "ai2thor_id": "Apple|-01.09|+00.96|-00.02",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Cabinet_48",
+      "label": "Cabinet",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 0.6488125324249268,
+          "y": 0.4749999940395355,
+          "z": 0.24499988555908203
+        },
+        "discovered_frame": 63,
+        "original_id": "Cabinet|+00.65|+00.48|+00.24",
+        "ai2thor_id": "Cabinet|+00.65|+00.48|+00.24",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": true,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "CreditCard_49",
+      "label": "CreditCard",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": -1.3961957693099976,
+          "y": 0.9199450612068176,
+          "z": -0.2195538580417633
+        },
+        "discovered_frame": 63,
+        "original_id": "CreditCard|-01.40|+00.92|-00.22",
+        "ai2thor_id": "CreditCard|-01.40|+00.92|-00.22",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Statue_50",
+      "label": "Statue",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": -1.3320001363754272,
+          "y": 0.9184184074401855,
+          "z": 0.2219906449317932
+        },
+        "discovered_frame": 63,
+        "original_id": "Statue|-01.33|+00.92|+00.22",
+        "ai2thor_id": "Statue|-01.33|+00.92|+00.22",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Toaster_51",
+      "label": "Toaster",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 0.9840067625045776,
+          "y": 0.9000058770179749,
+          "z": 0.3290005028247833
+        },
+        "discovered_frame": 63,
+        "original_id": "Toaster|+00.98|+00.90|+00.33",
+        "ai2thor_id": "Toaster|+00.98|+00.90|+00.33",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": true,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Chair_52",
+      "label": "Chair",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": -1.832050085067749,
+          "y": 0.0020392537117004395,
+          "z": -0.034224189817905426
+        },
+        "discovered_frame": 65,
+        "original_id": "Chair|-01.83|+00.00|-00.03",
+        "ai2thor_id": "Chair|-01.83|+00.00|-00.03",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": false,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    },
+    {
+      "id": "Fridge_53",
+      "label": "Fridge",
+      "category": "Object",
+      "attributes": {
+        "position_3d": {
+          "x": 0.9660000205039978,
+          "y": 0.0,
+          "z": 1.253999948501587
+        },
+        "discovered_frame": 66,
+        "original_id": "Fridge|+00.97|+00.00|+01.25",
+        "ai2thor_id": "Fridge|+00.97|+00.00|+01.25",
+        "state": {
+          "dirtyable": false,
+          "isDirty": false,
+          "openable": true,
+          "isOpen": false,
+          "toggleable": false,
+          "isToggledOn": false
+        }
+      }
+    }
+  ],
+  "edges": []
+}
