@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mingjia2005.github.io/CAFE-Closed-Loop-Autonomous-Task-Formulation-and-Execution-without-Explicit-Task-Input/sitemap.xml
